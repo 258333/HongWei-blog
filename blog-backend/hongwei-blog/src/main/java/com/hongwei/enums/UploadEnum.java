@@ -9,8 +9,6 @@ import java.util.List;
 /**
  * @author: HongWei
  * @date: 2024/11/14 13:10
- * @param:
- * @return:
  * @description: 文件上传枚举
  **/
 @Getter

@@ -4,10 +4,10 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 /**
- * @author kuailemao
- * <p>
- * 创建时间：2023/11/6 11:11
- */
+ * @author: HongWei
+ * @date: 2024/11/14 13:14
+ * @description:
+ **/
 @Getter
 @AllArgsConstructor
 public enum RoleEnum {

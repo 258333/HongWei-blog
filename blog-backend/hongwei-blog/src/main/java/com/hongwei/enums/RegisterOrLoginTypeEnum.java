@@ -6,8 +6,6 @@ import lombok.Getter;
 /**
  * @author: HongWei
  * @date: 2024/11/14 13:09
- * @param:
- * @return:
  * @description: 注册类型枚举
  **/
 @Getter

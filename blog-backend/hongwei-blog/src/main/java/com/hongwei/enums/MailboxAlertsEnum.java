@@ -6,8 +6,6 @@ import lombok.Getter;
  * @description: 发送邮箱提醒枚举
  * @author: HongWei
  * @date: 2024/11/14 13:05
- * @param: 
- * @return: 
  **/
 @Getter
 @AllArgsConstructor
