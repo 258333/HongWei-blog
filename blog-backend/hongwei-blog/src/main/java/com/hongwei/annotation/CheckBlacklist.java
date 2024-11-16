@@ -3,10 +3,9 @@ package com.hongwei.annotation;
 import java.lang.annotation.*;
 
 /**
- * @author kuailemao
- * @since 2024/9/5 下午10:10
- * 封禁验证注解
- */
+ * @author: HongWei
+ * @date: 2024/11/14 12:49
+ **/
 @Documented
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
